@@ -1,3 +1,5 @@
+![img promise](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvz88_qjQuuMamoCTnZ6qo9A0vddc3K9blg&usqp=CAU)
+
 In this lab I learned about JS promises and the node-fetch package. I leared about cain methods and fetching pictuers.
 
 <br>
